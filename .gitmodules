@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/xiepeng21/xiepeng21.github.io.git
+	branch = hugo
